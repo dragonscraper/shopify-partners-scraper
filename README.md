@@ -66,11 +66,10 @@ A powerful, asynchronous web scraper designed to extract comprehensive data from
 ## 📦 Dependencies
 
 ```txt
-aiofiles>=23.0.0
-asyncio
-beautifulsoup4>=4.12.0
-httpx>=0.24.0
-pandas>=2.0.0
+beautifulsoup4==4.13.4
+httpx==0.28.1
+aiofiles==23.2.1
+pandas==2.2.3
 ```
 
 ## 🏗️ Project Structure
